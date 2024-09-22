@@ -76,10 +76,10 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fokhruli&" alt="fokhruli" /></p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monaf-chowdhury&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="monaf-chowdhury" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanimran-academic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ahsanimran-academic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monaf-chowdhury&show_icons=true&locale=en&theme=tokyonight" alt="monaf-chowdhury" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsanimran-academic&show_icons=true&locale=en&theme=tokyonight" alt="ahsanimran-academic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monaf-chowdhury&" alt="monaf-chowdhury" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanimran-academic&" alt="ahsanimran-academic" /></p>
 
 ---
