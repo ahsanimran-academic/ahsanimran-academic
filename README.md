@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Multi-agent Deep Reinforcement Learning to design policies for autonomous agents**
 
-- 👯 I’m willing to collaborate on **Reinforcement Learning or Machine Vision research projects**
+- 👯 I’m willing to collaborate on **Wearable Technologies and Sensor Signal Processing based research projects**
 
 - 💬 Ask me about **Robotics, Deep learning, Computer Vision**
 
