@@ -1,5 +1,5 @@
 ### Hey there 👋
-Hello, I am Ahsan Imran, Robotics and AI enthusiast. I'm passionate about Robot Vision, Multi-modal Signal Processing, Vision Langulage Model with RL, Machine Learning and their applications in autonomus agents, surveillance, robotics and social efficiency.
+Hello, I am Ahsan Imran, Robotics and AI enthusiast. I'm passionate about Wearable Technology, Biomedical Multi-modal Sensor Signal Processing, Robot Vision, Machine Learning and their applications in healthcare and social efficiency.
 
 <!-- <img align="right" alt="research" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"> -->
 <!-- <iframe src="https://giphy.com/embed/a5viI92PAF89q" width="480" height="331" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-a5viI92PAF89q">via GIPHY</a></p> -->
