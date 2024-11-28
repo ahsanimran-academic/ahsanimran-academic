@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/monaf_chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monaf_twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/monaf-chowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monaf_linked_in" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdul.monaf.9461" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg?raw=true" alt="monaf_fb" height="30" width="40"></a>
+<a href="https://x.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imran_twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahsanimran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran_linked_in" height="30" width="40" /></a>
+<a href="https://www.facebook.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg?raw=true" alt="imran_fb" height="30" width="40"></a>
 <!-- <a href="https://discord.gg/840008061934501918" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg?raw=true" alt="My discord ID" height="30" width="40"></a> -->
 </p>
 
