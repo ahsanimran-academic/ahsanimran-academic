@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Translation of a Wearable Fetal Movement Monitor towards Stillbirth Prevention** funded by 'Wellcome Leap'
 
-- 🌱 I’m currently learning **Multi-agent Deep Reinforcement Learning to design policies for autonomous agents**
+- 🌱 I’m currently learning **Agentic LLM-RL with diverse objectives**
 
 - 👯 I’m willing to collaborate on **Wearable Technologies and Sensor Signal Processing based research projects**
 
